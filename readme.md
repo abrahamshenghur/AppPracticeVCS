@@ -12,3 +12,6 @@
 8. Create reusable custom alerts
 9. Program organization & architectiure
 10. Refactor GFAlertContainerView
+
+# Networking
+11. Relocate info.plist fix
