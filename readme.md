@@ -16,3 +16,4 @@
 # Networking
 11. Relocate info.plist fix
 12. Quick bug fix #1
+13. Create network call - get followers
