@@ -26,3 +26,4 @@
 18. UICollectionView - initial setup
 19. UICollectionView - FlowLayout
 20. UICollectionView - Diffable data source
+21. ARC, memory leaks, and capture lists [weak self]
