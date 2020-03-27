@@ -19,3 +19,4 @@
 13. Create network call - get followers
 14. Quick bug fix #2
 15. Refactor error messages
+16. Result-type refactor
