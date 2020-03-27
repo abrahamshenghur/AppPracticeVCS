@@ -18,3 +18,4 @@
 12. Quick bug fix #1
 13. Create network call - get followers
 14. Quick bug fix #2
+15. Refactor error messages
