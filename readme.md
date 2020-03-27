@@ -30,3 +30,4 @@
 22. Downloading and caching avatar images
 23. Pagination - getting the next 100 followers
 24. Set the login textfield keyboard
+25. Loading view
