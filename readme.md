@@ -28,3 +28,4 @@
 20. UICollectionView - Diffable data source
 21. ARC, memory leaks, and capture lists [weak self]
 22. Downloading and caching avatar images
+23. Pagination - getting the next 100 followers
