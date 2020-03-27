@@ -33,3 +33,4 @@
 25. Loading view
 26. Constrain the activity indicator to the container view
 27. Empty stateview
+28. Search functionality
