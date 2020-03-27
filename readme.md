@@ -20,3 +20,6 @@
 14. Quick bug fix #2
 15. Refactor error messages
 16. Result-type refactor
+
+# CollectionView
+17. UICollectionView - custon follower cell
