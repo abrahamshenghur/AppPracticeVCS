@@ -8,4 +8,5 @@
 # SearchVC & Custom Alert
 5. Custom Views - UIButton & UITextField
 6. Search screen UI (Programmatic)
-7. Passing Data & Keyboards
+7. Passing data & Keyboards
+8. Create reusable custom alerts
