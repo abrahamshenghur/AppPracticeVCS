@@ -31,3 +31,4 @@
 23. Pagination - getting the next 100 followers
 24. Set the login textfield keyboard
 25. Loading view
+26. Constrain the activity indicator to the container view
