@@ -41,3 +41,4 @@
 31. More cleanup
 32. Make non-optional properties 'let'
 33. Cleanup message
+34. Fix 'after-filtering' tap-on-user bug
