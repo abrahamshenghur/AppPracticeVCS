@@ -50,3 +50,4 @@
 40. UserInfoVC cleanup + setup
 41. ItemInfoView
 42. ItemInfoVC - superclass
+43. ItemInfoVC - subclasses
