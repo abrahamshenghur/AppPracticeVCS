@@ -52,3 +52,4 @@
 42. ItemInfoVC - superclass
 43. ItemInfoVC - subclasses
 44. Button functionality - delegates & protocols
+45. Refactoring + cleanup
