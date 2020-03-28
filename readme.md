@@ -58,3 +58,4 @@
 
 # Favorites Screen - Persistence
 48. PersistenceManager - make it work
+49. UITableView - Favorites cell
