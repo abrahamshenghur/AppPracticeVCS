@@ -43,3 +43,4 @@
 33. Cleanup message
 34. Fix 'after-filtering' tap-on-user bug
 35. Refactor and cleanup NetworkManager
+36. Bug fixes: self.updateData must be called on self.followers
