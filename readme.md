@@ -45,3 +45,4 @@
 35. Refactor and cleanup NetworkManager
 36. Bug fixes: self.updateData must be called on self.followers
 37. Force lowercase user name
+38. Fix reason why user couldn't be decoded
