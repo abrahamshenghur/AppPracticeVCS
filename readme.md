@@ -49,3 +49,4 @@
 39. Child view controller - UserInfoHeaderVC
 40. UserInfoVC cleanup + setup
 41. ItemInfoView
+42. ItemInfoVC - superclass
