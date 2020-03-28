@@ -55,3 +55,6 @@
 45. Refactoring + cleanup
 46. Persistence overview & Add button
 47. Refactor + cleanup
+
+# Favorites Screen - Persistence
+48. PersistenceManager - make it work
