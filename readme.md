@@ -48,3 +48,4 @@
 38. Fix reason why user couldn't be decoded
 39. Child view controller - UserInfoHeaderVC
 40. UserInfoVC cleanup + setup
+41. ItemInfoView
