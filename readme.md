@@ -42,3 +42,4 @@
 32. Make non-optional properties 'let'
 33. Cleanup message
 34. Fix 'after-filtering' tap-on-user bug
+35. Refactor and cleanup NetworkManager
