@@ -34,3 +34,6 @@
 26. Constrain the activity indicator to the container view
 27. Empty stateview
 28. Search functionality
+
+# User Info Screen
+29. Modal presentation and passing data
