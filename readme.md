@@ -39,3 +39,4 @@
 29. Modal presentation and passing data
 30. Minor cleanup
 31. More cleanup
+32. Make non-optional properties 'let'
