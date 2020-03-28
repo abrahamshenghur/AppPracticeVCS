@@ -40,3 +40,4 @@
 30. Minor cleanup
 31. More cleanup
 32. Make non-optional properties 'let'
+33. Cleanup message
